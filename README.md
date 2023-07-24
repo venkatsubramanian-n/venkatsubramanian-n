@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkata Subramanian</h1>
+<h1 align="center">Hi Buddy 👋, I'm Venkata Subramanian</h1>
 <h3 align="center">Passionate Entry-Level Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatsubramanian-n&label=Profile%20views&color=0e75b6&style=flat" alt="venkatsubramanian-n" /> </p>
